@@ -119,18 +119,18 @@ width: 326px;
 
 /* Completed */
 #completed-tasks .task__label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
 /* Edit Task */
 .task__list-item .task__input {
-    display:none
+    display:none;
 }
 
 .task__list-item.edit-mode .task__input {
     display:inline-block;
-    width:326px
+    width:326px;
 }
 
 .task__list-item.edit-mode .task__label {
