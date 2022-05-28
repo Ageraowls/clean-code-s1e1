@@ -144,14 +144,14 @@ width: 326px;
 /* Edit Task */
 
 .task__list-item .task__input {
-    display:none;
+    display: none;
 }
 
 .task__list-item.edit-mode .task__input {
-    display:inline-block;
-    width:326px;
+    display: inline-block;
+    width: 326px;
 }
 
 .task__list-item.edit-mode .task__label {
-    display:none;
+    display: none;
 }
